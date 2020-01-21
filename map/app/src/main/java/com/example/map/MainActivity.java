@@ -8,4 +8,8 @@ public class MainActivity extends BaseMapActivity {
     protected int getLayoutId() {
         return R.layout.activity_main;
     }
+
+    private void asdasdasdasd(){
+
+    }
 }
